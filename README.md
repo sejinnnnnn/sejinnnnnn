@@ -20,9 +20,7 @@
 ![AWS EC2 Badge](https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat&logo=AWS-EC2&logoColor=white)&nbsp; 
 ![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white)&nbsp; 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp; 
-![github Actions Badge](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)&nbsp; 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongminyooa%2Fhit-counter&count_bg=%23CBC5C5&title_bg=%23000000&icon=github.svg&icon_color=%23CBC5C5&title=today+%2F+total&edge_flat=true)\
+![github Actions Badge](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)&nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sejinnnnnn&show_icons=true)  
 
