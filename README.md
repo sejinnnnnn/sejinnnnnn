@@ -22,6 +22,4 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp; 
 ![github Actions Badge](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)&nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sejinnnnnn&show_icons=true)  
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sejinnnnnn)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sejinnnnnn&show_icons=true) &nbsp;&nbsp;&nbsp; ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sejinnnnnn)    
