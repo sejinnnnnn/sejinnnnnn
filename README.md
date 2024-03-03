@@ -10,8 +10,9 @@
 ## ✏️ **Tech Stack** 
 
 - **Backend** : 
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/Jeongminyooa/Algorithm_Java)&nbsp;
-![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/sejinnnnnn/Algo)&nbsp;
+![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
+
 
 - **DevOps** : 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
