@@ -17,25 +17,40 @@
 
 ## 🏆 Awards
 - 2024.02 SSAFY 광주 1반 우수 공통 프로젝트
-- 2022.12 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상
+- 2022.12 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상 (3위)
 - 2020.11 건국대학교 공과대학 SW경진대회 우수상
 
 ## ✏️ **Tech Stack** 
 
 - **Backend** : 
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/sejinnnnnn/Algo)&nbsp;
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/sejinnnnnn/Algo)&nbsp;
 ![SpringBoot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
-![SpringSecurity Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=hibernate)&nbsp;
+![SpringSecurity Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp;
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)&nbsp;
+![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
+- **Frontend** : 
+![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+- **Database** : 
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 - **DevOps** : 
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-![AWS S3 Badge](https://img.shields.io/badge/Amazon&nbsp;S3-569A31?style=flat&logo=AWS-S3&logoColor=white)&nbsp; 
-![AWS RDS Badge](https://img.shields.io/badge/Amazon&nbsp;RDS-527FFF?style=flat&logo=AWS-RDS&logoColor=white)&nbsp; 
-![AWS EC2 Badge](https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat&logo=AWS-EC2&logoColor=white)&nbsp; 
-![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white)&nbsp; 
+![AWS S3 Badge](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)&nbsp; 
+![AWS RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)&nbsp; 
+![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)&nbsp; 
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp; 
-![github Actions Badge](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)&nbsp;
+![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white)&nbsp; 
+
+- **Collaborative** : 
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp; 
+![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)&nbsp; 
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sejinnnnnn&show_icons=true) &nbsp;&nbsp;&nbsp; ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sejinnnnnn)    
