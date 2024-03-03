@@ -30,7 +30,6 @@
 ![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 - **Backend** : 
-
 ![SpringBoot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![SpringSecurity Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp;
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)&nbsp;
