@@ -22,15 +22,21 @@
 
 ## ✏️ **Tech Stack** 
 
-- **Backend** : 
+- **Language** : 
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/sejinnnnnn/Algo)&nbsp;
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)&nbsp;
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)&nbsp;
+![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+- **Backend** : 
+
 ![SpringBoot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![SpringSecurity Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp;
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)&nbsp;
 ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
 - **Frontend** : 
-![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
