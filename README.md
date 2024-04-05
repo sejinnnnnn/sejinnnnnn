@@ -11,14 +11,16 @@
 - Feedback을 통한 발전을 지향해요.
 
 ## 📽️ Projects
+- [Familiar]() : 생성형 AI 기반 패밀리허브 가족 소통 서비스 (2024)
 - [Pawsitive](https://github.com/dog1people/pawsitive) : 빅데이터 기반 사용자 맞춤형 유기견 입양 지원 서비스 (2024)
 - [스마트 수불 로그 (스수로)](https://github.com/osamhack2022-v2/APP_Seusuro_AutoMedic) : 군 의무대 장병을 위한 의약품 수불 대장 디지털화 (2022)
 - [Stressy](https://github.com/GraduationProjectGang/Stressy_Final) : 스마트폰 사용 패턴 분석을 통한 스트레스 지수 예측 Application (2020)
 
 ## 🏆 Awards
-- 2024.02 SSAFY 광주 1반 우수 공통 프로젝트
-- 2022.12 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상 (3위)
-- 2020.11 건국대학교 공과대학 SW경진대회 우수상
+- SSAFY X 삼성전자 DA사업부 연계 프로젝트 1위
+- SSAFY 광주 1반 공통 프로젝트 우수 (2위)
+- 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상 (3위)
+- 건국대학교 공과대학 SW경진대회 우수상
 
 ## 📄 Qualification
 - 2023.12 HSAT 자격 인증 Lv.3 (Softeer)
