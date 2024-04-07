@@ -40,9 +40,10 @@
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)&nbsp;
 ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
-- **Frontend** : 
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- **Frontend** :
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 - **Database** : 
