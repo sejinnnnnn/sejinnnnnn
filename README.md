@@ -11,7 +11,7 @@
 - Feedback을 통한 발전을 지향해요.
 
 ## 📽️ Projects
-- [Familiar]() : 생성형 AI 기반 패밀리허브 가족 소통 서비스 (2024)
+- [Familiar](https://github.com/ssaida-s003/familiar) : 생성형 AI 기반 패밀리허브 가족 소통 서비스 (2024)
 - [Pawsitive](https://github.com/dog1people/pawsitive) : 빅데이터 기반 사용자 맞춤형 유기견 입양 지원 서비스 (2024)
 - [스마트 수불 로그 (스수로)](https://github.com/osamhack2022-v2/APP_Seusuro_AutoMedic) : 군 의무대 장병을 위한 의약품 수불 대장 디지털화 (2022)
 - [Stressy](https://github.com/GraduationProjectGang/Stressy_Final) : 스마트폰 사용 패턴 분석을 통한 스트레스 지수 예측 Application (2020)
