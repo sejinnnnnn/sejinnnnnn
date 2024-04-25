@@ -23,7 +23,7 @@
 - 건국대학교 공과대학 SW경진대회 우수상
 
 ## 📄 Qualification
-- 2023.12 HSAT 자격 인증 Lv.3 (Softeer)
+- HSAT 자격 인증 Lv.3 (Softeer 역량 평가)
 
 ## ✏️ **Tech Stack** 
 
