@@ -18,13 +18,16 @@
 - [Stressy](https://github.com/GraduationProjectGang/Stressy_Final) : 스마트폰 사용 패턴 분석을 통한 스트레스 지수 예측 Application (2020)
 
 ## 🏆 Awards
+- SSAFY 자율 프로젝트 우수
 - SSAFY X 삼성전자 DA사업부 연계 프로젝트 1위
 - SSAFY 광주 1반 공통 프로젝트 우수
-- 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상
+- 2022 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상 (3위)
 - 건국대학교 공과대학 SW경진대회 우수상
 
 ## 📄 Qualification
 - HSAT 자격 인증 Lv.3 (Softeer 역량 평가)
+- SQLD (SQL개발자)
+- 정보처리기사
 
 ## ✏️ **Tech Stack** 
 
@@ -51,7 +54,9 @@
 - **Database** : 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)&nbsp;
+![Redis Badge](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)&nbsp;
+![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 - **DevOps** : 
 ![AWS S3 Badge](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)&nbsp; 
@@ -59,7 +64,8 @@
 ![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)&nbsp; 
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp; 
-![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white)&nbsp; 
+![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white)&nbsp;
+![Sonarqube Badge](https://img.shields.io/badge/Sonarqube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 - **Collaborative** : 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp; 
