@@ -11,6 +11,7 @@
 - Feedback을 통한 발전을 지향해요.
 
 ## 📽️ Projects
+- [Block Homes](https://github.com/Gamzas/block-homes) : 분산 원장 기술 기반 부동산 P2P 직거래 BApp (2024)
 - [Familiar](https://github.com/ssaida-s003/familiar) : 생성형 AI 기반 패밀리허브 가족 소통 서비스 (2024)
 - [Pawsitive](https://github.com/dog1people/pawsitive) : 빅데이터 기반 사용자 맞춤형 유기견 입양 지원 서비스 (2024)
 - [스마트 수불 로그 (스수로)](https://github.com/osamhack2022-v2/APP_Seusuro_AutoMedic) : 군 의무대 장병을 위한 의약품 수불 대장 디지털화 (2022)
@@ -32,7 +33,8 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)&nbsp;
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)&nbsp;
-![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
+![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
 
 - **Backend** : 
 ![SpringBoot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
