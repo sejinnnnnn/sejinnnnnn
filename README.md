@@ -1,7 +1,7 @@
 ## 🌱 백엔드 개발자 천세진 입니다! 🇰🇷
-- 🎓 Konkuk univ. Computer Science Engineering (2017 ~ 2021)
-- 💂‍♂️ ROKA Officer (Lt.) (2021 ~ 2023)
-- 🧑🏻‍💻 SSAFY 10th. (2023 ~)
+- 🎓 Konkuk univ. Computer Science Engineering (2017. 03 ~ 2021. 02)
+- 💂‍♂️ ROKA Officer (Lt.) (2021. 03 ~ 2023. 06)
+- 🧑🏻‍💻 SSAFY 10th. (2023. 07 ~ 2024. 06)
 
 ## 🙌🏻 저는 이런 사람이에요
 - 항상 긍정적인 마인드로 재미있고 행복하게 프로젝트에 임해요.
@@ -20,7 +20,7 @@
 ## 🏆 Awards
 - SSAFY 자율 프로젝트 우수
 - SSAFY X 삼성전자 DA사업부 연계 프로젝트 1위
-- SSAFY 광주 1반 공통 프로젝트 우수
+- SSAFY 공통 프로젝트 우수
 - 2022 군장병 공개SW 온라인 경진대회 정보통신산업진흥원장상 (3위)
 - 건국대학교 공과대학 SW경진대회 우수상
 
